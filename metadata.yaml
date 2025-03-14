@@ -1,0 +1,51 @@
+_repo: Affairs-of-West-Africa_75580
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ross, Ronald, Sir
+    aliases:
+    - Ross, R. (Ronald), Sir
+    - Ross, Sir Ronald
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '44647'
+    url: http://www.gutenberg.org/2009/agents/44647
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Ross
+creator:
+  author:
+    agent_name: Morel, E. D. (Edmund Dene)
+    aliases:
+    - Morel, Edmund Dene
+    - De Ville, Georges Edmond Pierre Achille Morel
+    - Ville, Georges Edmond Pierre Achille Morel de
+    birthdate: 1873
+    deathdate: 1924
+    gutenberg_agent_id: '56432'
+    url: http://www.gutenberg.org/2009/agents/56432
+    wikipedia: https://en.wikipedia.org/wiki/E._D._Morel
+description: ''
+gutenberg_issued: '2025-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75580'
+  lccn: 03017834
+language: en
+pgterms:marc904: https://archive.org/details/affairsofwestafr00more
+pgterms:marc905: 20220402093944morel
+pgterms:marc906: '1902'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bWilliam Heinemann, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Great Britain -- Colonies -- Africa'
+- !lcsh 'France -- Colonies -- Africa'
+- !lcsh 'Africa, West -- Politics and government'
+- !lcc 'DT'
+- GITenberg
+title: Affairs of West Africa
+url: http://www.gutenberg.org/ebooks/75580
