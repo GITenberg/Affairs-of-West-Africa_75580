@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '44647'
     url: http://www.gutenberg.org/2009/agents/44647
     wikipedia: https://en.wikipedia.org/wiki/Ronald_Ross
+covers:
+- cover_type: archival
+  image_path: 75580-h/images/cover.jpg
 creator:
   author:
     agent_name: Morel, E. D. (Edmund Dene)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56432
     wikipedia: https://en.wikipedia.org/wiki/E._D._Morel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75580#Affairs-of-West-Africa
 gutenberg_issued: '2025-03-10'
 gutenberg_type: Text
 identifiers:
